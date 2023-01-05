@@ -43,11 +43,21 @@
 
     .portrait {
         transform: scale(0.8);
-        //background: urt('../img/portrait_small.jpg');
+        //background: urt('../img/portrait_small2.jpg');
         //width: 150px;
         //height: 150px;
     }
 
+    .about-info {
+        grid-template-areas: 
+        'bioimage'
+        'bio'
+        'job1'
+        'job2'
+        'job3';
+
+        grid-template-columns: 1fr;
+    }
 }
 
 // smarphones
