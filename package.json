@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Responsive portfolio webside",
   "main": "index.js",
-  "homepage": "https://iitaellu.github.io/FrontEndPortfolio//dist/index.html",
+  "homepage": "https://iitaellu.github.io/FrontEndPortfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ –-recursive",
     "deploy": "gh-pages -d dist"
