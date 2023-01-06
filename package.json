@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Responsive portfolio webside",
   "main": "index.js",
-  "homepage": "https://iitaellu.github.io/FrontEndPortfolio",
+  "homepage": "https://iitaellu.github.io/FrontEndPortfolio//dist/index.html",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ –-recursive",
     "deploy": "gh-pages -d dist"
@@ -11,6 +11,7 @@
   "author": "Ida Kirveskoski",
   "license": "ISC",
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "node-sass": "^4.14.1",
     "sass": "^1.57.1"
   }
