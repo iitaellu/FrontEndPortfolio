@@ -1,6 +1,9 @@
 # FrontEndPortfolio
 Front End exersises
 
+![image](https://user-images.githubusercontent.com/78799868/214067017-7d1f6ac7-9b9e-4281-96f2-6b718f4419fa.png)
+
+
 ## Course Info
 
 Course: Anytime-course: Software Development Skills: Front-End 2022-23
